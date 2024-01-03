@@ -1,0 +1,1 @@
+report-with: php7.3-common php7.3-cli libphp7.3-embed libapache2-mod-php7.3 libapache2-mod-php7.3filter php7.3-cgi php7.3-fpm
