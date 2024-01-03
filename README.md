@@ -11,7 +11,7 @@ Suroot is a colorful and interactive project designed for educational purposes, 
 ```bash
 git clone https://github.com/rainbowhatrkn/suroot.git
 ```
-   - Alternatively, run on Replit: [Run on Replit](https://replit.com/@trkn/suroot)
+   - Alternatively, run on Replit: [![Run on Replit](https://replit.com/badge/github/rainbowhatrkn/suroot)](https://replit.com/@trkn/suroot)
 
 2. **Navigate to the Project Directory:**
 ```bash
